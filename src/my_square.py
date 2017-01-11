@@ -5,6 +5,8 @@ def square(y):
 	return (y**2)
 
 def square2(x):
+	"""uses the * operator to calcuate square
+	"""
 	return (x*x)
 
 print(square(42))
