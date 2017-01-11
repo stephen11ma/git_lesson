@@ -1,6 +1,7 @@
 def square(x):
 	""" Take a value and return square
+	use ** operator
 	"""
-	return (x*x)
+	return (x**x)
 
 print(square(4))
