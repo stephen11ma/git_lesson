@@ -1,1 +1,1 @@
-This is documentation for src folder.
+This is documentation for src/ folder.
